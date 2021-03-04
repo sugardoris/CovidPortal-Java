@@ -5,6 +5,7 @@ I made this project for the Java class I took in college. The purpose of the pro
 - exception handling
 - collections (lists, sets, maps)
 - I/O, working with files
+- Javadocs, logging
 
 It also covers some intermediate and more advanced topics:
 - generic programming
