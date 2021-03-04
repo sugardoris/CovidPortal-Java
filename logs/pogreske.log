@@ -1,0 +1,442 @@
+2020-12-09 18:05:09,798 INFO [main] m.h.j.c.m.Glavna [Glavna.java:33] Program je pokrenut.
+2020-12-09 18:05:09,825 INFO [main] m.h.j.c.m.Glavna [Glavna.java:38] Uneseni su podaci o svim županijama.
+2020-12-09 18:05:09,831 INFO [main] m.h.j.c.m.Glavna [Glavna.java:43] Uneseni su podaci o svim simptomima.
+2020-12-09 18:05:09,840 INFO [main] m.h.j.c.m.Glavna [Glavna.java:55] Uneseni su podaci o svim bolestima i virusima.
+2020-12-09 18:05:09,853 INFO [main] m.h.j.c.m.Glavna [Glavna.java:60] Uneseni su podaci o svim osobama.
+2020-12-09 18:54:05,328 INFO [main] m.h.j.c.m.Glavna [Glavna.java:33] Program je pokrenut.
+2020-12-09 18:54:05,339 INFO [main] m.h.j.c.m.Glavna [Glavna.java:38] Uneseni su podaci o svim županijama.
+2020-12-09 18:54:05,346 INFO [main] m.h.j.c.m.Glavna [Glavna.java:43] Uneseni su podaci o svim simptomima.
+2020-12-09 18:54:05,353 INFO [main] m.h.j.c.m.Glavna [Glavna.java:55] Uneseni su podaci o svim bolestima i virusima.
+2020-12-09 18:54:05,362 INFO [main] m.h.j.c.m.Glavna [Glavna.java:60] Uneseni su podaci o svim osobama.
+2020-12-09 18:54:36,210 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:30] Prikazan je ekran za pretragu zupanija.
+2020-12-09 18:54:36,395 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:67] Inicijalizirana tablica za pretragu zupanija.
+2020-12-09 18:55:55,340 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:30] Prikazan je ekran za pretragu zupanija.
+2020-12-09 18:55:55,519 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:67] Inicijalizirana tablica za pretragu zupanija.
+2020-12-09 18:56:06,308 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:43] Prikazan je ekran za pretragu simptoma.
+2020-12-09 18:56:06,366 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:63] Inicijalizirana tablica za pretragu simptoma.
+2020-12-09 18:56:15,090 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:56] Prikazan je ekran za pretragu bolesti.
+2020-12-09 18:56:15,136 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:66] Inicijalizirana tablica za pretragu bolesti.
+2020-12-09 18:56:29,149 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:69] Prikazan je ekran za pretragu virusa.
+2020-12-09 18:56:29,195 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:68] Inicijalizirana tablica za pretragu virusa.
+2020-12-09 18:56:38,347 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:56] Prikazan je ekran za pretragu bolesti.
+2020-12-09 18:56:38,391 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:66] Inicijalizirana tablica za pretragu bolesti.
+2020-12-09 18:56:45,087 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:69] Prikazan je ekran za pretragu virusa.
+2020-12-09 18:56:45,119 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:68] Inicijalizirana tablica za pretragu virusa.
+2020-12-09 18:57:58,229 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:56] Prikazan je ekran za pretragu bolesti.
+2020-12-09 18:57:58,413 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:66] Inicijalizirana tablica za pretragu bolesti.
+2020-12-09 18:59:26,521 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:56] Prikazan je ekran za pretragu bolesti.
+2020-12-09 18:59:26,698 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:66] Inicijalizirana tablica za pretragu bolesti.
+2020-12-09 18:59:38,041 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:56] Prikazan je ekran za pretragu bolesti.
+2020-12-09 18:59:38,088 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:66] Inicijalizirana tablica za pretragu bolesti.
+2020-12-09 19:01:29,768 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:56] Prikazan je ekran za pretragu bolesti.
+2020-12-09 19:01:29,956 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:69] Inicijalizirana tablica za pretragu bolesti.
+2020-12-09 19:01:34,892 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:69] Prikazan je ekran za pretragu virusa.
+2020-12-09 19:01:34,940 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:71] Inicijalizirana tablica za pretragu virusa.
+2020-12-09 19:01:40,400 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:56] Prikazan je ekran za pretragu bolesti.
+2020-12-09 19:01:40,442 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:69] Inicijalizirana tablica za pretragu bolesti.
+2020-12-09 19:01:42,225 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:43] Prikazan je ekran za pretragu simptoma.
+2020-12-09 19:01:42,268 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:66] Inicijalizirana tablica za pretragu simptoma.
+2020-12-09 19:01:47,686 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:30] Prikazan je ekran za pretragu zupanija.
+2020-12-09 19:01:47,734 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:70] Inicijalizirana tablica za pretragu zupanija.
+2020-12-09 19:01:52,895 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:43] Prikazan je ekran za pretragu simptoma.
+2020-12-09 19:01:52,931 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:66] Inicijalizirana tablica za pretragu simptoma.
+2020-12-09 19:01:54,813 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:82] Prikazan je ekran za pretragu osoba.
+2020-12-09 19:01:54,877 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:104] Inicijalizirana tablica za pretragu osoba.
+2020-12-11 16:39:28,974 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:100] Prikazan je ekran za unos novog simptoma.
+2020-12-11 16:39:34,293 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-11 16:39:36,045 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:118] Prikazan je ekran za unos novog virusa.
+2020-12-11 16:39:37,973 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:127] Prikazan je ekran za unos nove osobe.
+2020-12-11 16:41:09,774 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:91] Prikazan je ekran za unos nove županije.
+2020-12-11 16:41:13,619 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:100] Prikazan je ekran za unos novog simptoma.
+2020-12-12 12:02:42,862 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:91] Prikazan je ekran za unos nove županije.
+2020-12-12 12:05:18,599 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:91] Prikazan je ekran za unos nove županije.
+2020-12-12 12:05:42,965 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:30] Prikazan je ekran za pretragu zupanija.
+2020-12-12 12:05:43,099 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:70] Inicijalizirana tablica za pretragu zupanija.
+2020-12-12 12:09:17,034 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:91] Prikazan je ekran za unos nove županije.
+2020-12-12 12:09:37,306 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:30] Prikazan je ekran za pretragu zupanija.
+2020-12-12 12:09:37,398 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:70] Inicijalizirana tablica za pretragu zupanija.
+2020-12-12 12:10:28,101 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:91] Prikazan je ekran za unos nove županije.
+2020-12-12 12:10:40,564 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:30] Prikazan je ekran za pretragu zupanija.
+2020-12-12 12:10:40,654 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:70] Inicijalizirana tablica za pretragu zupanija.
+2020-12-12 12:15:12,000 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:91] Prikazan je ekran za unos nove županije.
+2020-12-12 12:15:24,495 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:30] Prikazan je ekran za pretragu zupanija.
+2020-12-12 12:16:17,101 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:91] Prikazan je ekran za unos nove županije.
+2020-12-12 12:16:30,670 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:30] Prikazan je ekran za pretragu zupanija.
+2020-12-12 12:16:30,766 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:70] Inicijalizirana tablica za pretragu zupanija.
+2020-12-12 12:23:17,082 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:100] Prikazan je ekran za unos novog simptoma.
+2020-12-12 12:23:59,155 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:43] Prikazan je ekran za pretragu simptoma.
+2020-12-12 12:23:59,315 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:66] Inicijalizirana tablica za pretragu simptoma.
+2020-12-12 12:35:00,579 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-12 12:35:09,532 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:56] Prikazan je ekran za pretragu bolesti.
+2020-12-12 12:35:09,684 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:69] Inicijalizirana tablica za pretragu bolesti.
+2020-12-12 12:35:49,728 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:56] Prikazan je ekran za pretragu bolesti.
+2020-12-12 12:35:49,887 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:69] Inicijalizirana tablica za pretragu bolesti.
+2020-12-12 12:41:19,834 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:118] Prikazan je ekran za unos novog virusa.
+2020-12-12 12:41:31,870 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:69] Prikazan je ekran za pretragu virusa.
+2020-12-12 12:42:15,867 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:118] Prikazan je ekran za unos novog virusa.
+2020-12-12 12:42:28,161 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:69] Prikazan je ekran za pretragu virusa.
+2020-12-12 12:42:28,258 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:71] Inicijalizirana tablica za pretragu virusa.
+2020-12-12 12:52:34,713 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:127] Prikazan je ekran za unos nove osobe.
+2020-12-12 12:53:02,789 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:82] Prikazan je ekran za pretragu osoba.
+2020-12-12 12:53:02,957 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:104] Inicijalizirana tablica za pretragu osoba.
+2020-12-15 09:36:07,397 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 09:37:58,891 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 09:38:06,165 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 09:55:23,343 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 09:57:04,203 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 09:58:08,340 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 10:00:46,835 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 10:17:32,797 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 10:19:37,145 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 10:20:18,922 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 10:20:45,425 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 10:32:50,516 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 10:38:33,048 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 10:39:07,714 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 10:51:55,058 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 11:12:29,909 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 11:12:48,468 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:56] Prikazan je ekran za pretragu bolesti.
+2020-12-15 11:12:48,578 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:69] Inicijalizirana tablica za pretragu bolesti.
+2020-12-15 11:17:27,967 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 11:23:42,807 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 11:25:13,971 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 11:26:57,417 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 11:30:24,687 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 11:31:42,687 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 11:38:29,083 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 11:41:48,684 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 11:42:36,035 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 11:44:14,670 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 11:45:24,570 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 11:46:34,953 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-15 11:46:46,263 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:56] Prikazan je ekran za pretragu bolesti.
+2020-12-15 11:46:46,364 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:69] Inicijalizirana tablica za pretragu bolesti.
+2020-12-15 12:15:58,261 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:118] Prikazan je ekran za unos novog virusa.
+2020-12-15 12:25:09,120 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:100] Prikazan je ekran za unos novog simptoma.
+2020-12-15 12:26:14,159 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:100] Prikazan je ekran za unos novog simptoma.
+2020-12-15 12:28:21,678 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:100] Prikazan je ekran za unos novog simptoma.
+2020-12-15 12:29:14,316 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:100] Prikazan je ekran za unos novog simptoma.
+2020-12-15 12:30:39,866 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:100] Prikazan je ekran za unos novog simptoma.
+2020-12-15 12:36:02,067 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:100] Prikazan je ekran za unos novog simptoma.
+2020-12-15 12:37:28,825 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:100] Prikazan je ekran za unos novog simptoma.
+2020-12-15 12:37:39,236 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:100] Prikazan je ekran za unos novog simptoma.
+2020-12-15 12:37:40,659 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:43] Prikazan je ekran za pretragu simptoma.
+2020-12-15 12:37:40,790 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:66] Inicijalizirana tablica za pretragu simptoma.
+2020-12-15 13:52:13,768 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:127] Prikazan je ekran za unos nove osobe.
+2020-12-15 13:53:32,545 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:127] Prikazan je ekran za unos nove osobe.
+2020-12-15 13:56:17,834 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:127] Prikazan je ekran za unos nove osobe.
+2020-12-15 14:07:29,618 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:127] Prikazan je ekran za unos nove osobe.
+2020-12-15 14:07:54,579 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:82] Prikazan je ekran za pretragu osoba.
+2020-12-15 14:07:54,745 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:104] Inicijalizirana tablica za pretragu osoba.
+2020-12-16 16:41:07,880 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:91] Prikazan je ekran za unos nove županije.
+2020-12-16 16:41:16,535 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:100] Prikazan je ekran za unos novog simptoma.
+2020-12-16 16:41:21,064 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-16 16:41:26,422 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:118] Prikazan je ekran za unos novog virusa.
+2020-12-16 16:41:31,722 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:127] Prikazan je ekran za unos nove osobe.
+2020-12-16 16:41:35,451 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:118] Prikazan je ekran za unos novog virusa.
+2020-12-16 16:45:46,099 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:91] Prikazan je ekran za unos nove županije.
+2020-12-16 16:47:32,808 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:91] Prikazan je ekran za unos nove županije.
+2020-12-16 16:47:46,756 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:100] Prikazan je ekran za unos novog simptoma.
+2020-12-16 16:47:59,583 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:109] Prikazan je ekran za unos nove bolesti.
+2020-12-16 16:48:10,997 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:118] Prikazan je ekran za unos novog virusa.
+2020-12-16 16:48:26,397 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:127] Prikazan je ekran za unos nove osobe.
+2020-12-16 16:54:14,232 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:127] Prikazan je ekran za unos nove osobe.
+2020-12-16 16:56:24,538 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:127] Prikazan je ekran za unos nove osobe.
+2021-01-09 13:46:38,485 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-09 13:46:38,891 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:76] Inicijalizirana tablica za pretragu zupanija.
+2021-01-09 13:47:00,990 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-09 13:47:01,036 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:76] Inicijalizirana tablica za pretragu zupanija.
+2021-01-09 13:47:12,929 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-09 13:47:12,973 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:76] Inicijalizirana tablica za pretragu zupanija.
+2021-01-09 13:47:19,055 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu simptoma.
+2021-01-09 13:47:19,132 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:72] Inicijalizirana tablica za pretragu simptoma.
+2021-01-09 13:47:29,666 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 14:02:26,393 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 14:02:26,790 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:78] Inicijalizirana tablica za pretragu bolesti.
+2021-01-09 14:02:32,372 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:02:32,533 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:02:45,141 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-09 14:02:45,275 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:100] Inicijalizirana tablica za pretragu osoba.
+2021-01-09 14:03:40,604 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 14:03:40,730 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:78] Inicijalizirana tablica za pretragu bolesti.
+2021-01-09 14:03:42,628 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:03:42,783 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:03:53,801 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu simptoma.
+2021-01-09 14:03:53,840 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:72] Inicijalizirana tablica za pretragu simptoma.
+2021-01-09 14:04:50,640 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 14:04:51,034 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:78] Inicijalizirana tablica za pretragu bolesti.
+2021-01-09 14:04:57,705 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 14:04:57,835 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:78] Inicijalizirana tablica za pretragu bolesti.
+2021-01-09 14:05:02,557 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:05:02,673 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:07:08,212 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 14:07:40,650 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 14:10:00,160 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:10:00,277 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:10:03,241 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-09 14:10:03,360 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:100] Inicijalizirana tablica za pretragu osoba.
+2021-01-09 14:13:32,749 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 14:13:33,141 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:77] Inicijalizirana tablica za pretragu bolesti.
+2021-01-09 14:14:18,936 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 14:14:19,354 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:73] Inicijalizirana tablica za pretragu bolesti.
+2021-01-09 14:14:23,357 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:14:23,474 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:14:28,352 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 14:14:28,470 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:73] Inicijalizirana tablica za pretragu bolesti.
+2021-01-09 14:14:29,956 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:14:30,064 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:14:31,622 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu simptoma.
+2021-01-09 14:14:31,659 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:72] Inicijalizirana tablica za pretragu simptoma.
+2021-01-09 14:14:33,544 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-09 14:14:33,585 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:76] Inicijalizirana tablica za pretragu zupanija.
+2021-01-09 14:15:21,568 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 14:15:21,976 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:73] Inicijalizirana tablica za pretragu bolesti.
+2021-01-09 14:15:25,943 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:15:26,059 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:23:29,953 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:23:30,411 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:23:39,542 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 14:23:39,667 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:73] Inicijalizirana tablica za pretragu bolesti.
+2021-01-09 14:25:18,494 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:25:18,884 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:26:15,026 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:26:15,397 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:27:38,565 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:29:48,392 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:30:19,651 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:32:57,096 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:33:38,775 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:35:33,156 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:37:20,122 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:37:20,469 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:41:05,168 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:41:05,536 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:41:08,431 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:41:08,520 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:41:11,279 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 14:41:11,360 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:73] Inicijalizirana tablica za pretragu bolesti.
+2021-01-09 14:42:10,517 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:42:10,888 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:42:26,147 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 14:42:26,236 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:73] Inicijalizirana tablica za pretragu bolesti.
+2021-01-09 14:43:27,187 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 14:43:27,547 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:78] Inicijalizirana tablica za pretragu bolesti.
+2021-01-09 14:43:29,601 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 14:43:29,687 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 14:45:57,140 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-09 14:45:57,570 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:100] Inicijalizirana tablica za pretragu osoba.
+2021-01-09 14:49:38,835 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-09 14:49:39,250 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:100] Inicijalizirana tablica za pretragu osoba.
+2021-01-09 14:49:50,524 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-09 14:49:50,628 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:100] Inicijalizirana tablica za pretragu osoba.
+2021-01-09 14:51:37,537 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-09 14:52:00,989 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:100] Inicijalizirana tablica za pretragu osoba.
+2021-01-09 14:52:28,603 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-09 14:54:31,454 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:100] Inicijalizirana tablica za pretragu osoba.
+2021-01-09 14:55:40,042 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-09 14:57:14,664 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-09 14:57:15,497 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:100] Inicijalizirana tablica za pretragu osoba.
+2021-01-09 14:59:07,067 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:99] Prikazan je ekran za unos novog simptoma.
+2021-01-09 14:59:28,678 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu simptoma.
+2021-01-09 14:59:28,782 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:72] Inicijalizirana tablica za pretragu simptoma.
+2021-01-09 14:59:35,487 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:90] Prikazan je ekran za unos nove županije.
+2021-01-09 15:02:35,970 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-09 15:02:36,018 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:76] Inicijalizirana tablica za pretragu zupanija.
+2021-01-09 15:02:39,073 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 15:02:39,169 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:78] Inicijalizirana tablica za pretragu bolesti.
+2021-01-09 15:02:40,915 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:108] Prikazan je ekran za unos nove bolesti.
+2021-01-09 15:02:54,882 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-09 15:02:54,961 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:78] Inicijalizirana tablica za pretragu bolesti.
+2021-01-09 15:03:00,140 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:117] Prikazan je ekran za unos novog virusa.
+2021-01-09 15:03:19,625 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-09 15:03:19,715 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-09 15:03:24,238 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:126] Prikazan je ekran za unos nove osobe.
+2021-01-09 15:04:05,664 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-09 15:04:06,245 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:100] Inicijalizirana tablica za pretragu osoba.
+2021-01-13 17:22:11,627 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-13 17:22:14,060 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:76] Inicijalizirana tablica za pretragu zupanija.
+2021-01-13 17:22:17,919 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:90] Prikazan je ekran za unos nove županije.
+2021-01-13 17:22:19,765 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu simptoma.
+2021-01-13 17:22:21,892 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:72] Inicijalizirana tablica za pretragu simptoma.
+2021-01-13 17:23:57,869 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-13 17:23:58,205 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:76] Inicijalizirana tablica za pretragu zupanija.
+2021-01-13 17:24:02,425 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu simptoma.
+2021-01-13 17:24:02,486 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:72] Inicijalizirana tablica za pretragu simptoma.
+2021-01-13 17:24:08,024 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-13 17:24:08,238 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:78] Inicijalizirana tablica za pretragu bolesti.
+2021-01-13 17:24:10,173 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-13 17:24:10,330 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-13 17:24:14,632 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-13 17:24:15,480 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:100] Inicijalizirana tablica za pretragu osoba.
+2021-01-13 17:56:33,239 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-13 17:56:33,575 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:76] Inicijalizirana tablica za pretragu zupanija.
+2021-01-13 17:56:36,053 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu simptoma.
+2021-01-13 17:56:36,115 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:72] Inicijalizirana tablica za pretragu simptoma.
+2021-01-13 17:56:37,389 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-13 17:56:37,509 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:78] Inicijalizirana tablica za pretragu bolesti.
+2021-01-13 17:56:38,923 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-13 17:56:39,016 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-13 17:56:40,699 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-13 17:56:41,353 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:100] Inicijalizirana tablica za pretragu osoba.
+2021-01-13 18:15:37,211 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-13 18:15:39,502 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:76] Inicijalizirana tablica za pretragu zupanija.
+2021-01-13 18:17:27,652 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-13 18:17:27,945 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:76] Inicijalizirana tablica za pretragu zupanija.
+2021-01-13 18:17:31,365 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-13 18:17:31,493 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:78] Inicijalizirana tablica za pretragu virusa.
+2021-01-13 18:17:32,615 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-13 18:17:33,305 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:100] Inicijalizirana tablica za pretragu osoba.
+2021-01-17 11:06:05,723 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-17 11:06:08,026 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:80] Inicijalizirana tablica za pretragu zupanija.
+2021-01-17 11:07:00,679 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-17 11:07:00,994 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:80] Inicijalizirana tablica za pretragu zupanija.
+2021-01-17 11:15:32,636 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-17 11:15:32,957 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:81] Inicijalizirana tablica za pretragu zupanija.
+2021-01-17 11:21:17,388 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-17 11:21:17,716 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:81] Inicijalizirana tablica za pretragu zupanija.
+2021-01-17 12:03:57,952 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-17 12:03:58,253 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:81] Inicijalizirana tablica za pretragu zupanija.
+2021-01-17 12:05:41,224 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-17 12:05:41,535 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:81] Inicijalizirana tablica za pretragu zupanija.
+2021-01-17 12:09:22,894 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-17 12:09:23,200 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:81] Inicijalizirana tablica za pretragu zupanija.
+2021-01-19 10:54:47,045 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-19 10:54:49,254 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:84] Inicijalizirana tablica za pretragu zupanija.
+2021-01-19 10:55:27,493 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-19 10:55:27,806 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:84] Inicijalizirana tablica za pretragu zupanija.
+2021-01-19 10:57:52,779 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-19 10:57:53,082 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:84] Inicijalizirana tablica za pretragu zupanija.
+2021-01-19 11:18:25,208 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-19 11:18:25,553 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:92] Inicijalizirana tablica za pretragu zupanija.
+2021-01-19 11:23:41,944 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-19 11:23:42,252 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:92] Inicijalizirana tablica za pretragu zupanija.
+2021-01-19 11:38:55,297 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu simptoma.
+2021-01-19 11:38:55,511 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:85] Inicijalizirana tablica za pretragu simptoma.
+2021-01-19 11:38:58,936 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-19 11:38:59,000 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:89] Inicijalizirana tablica za pretragu zupanija.
+2021-01-19 11:39:10,844 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu simptoma.
+2021-01-19 11:39:10,897 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:85] Inicijalizirana tablica za pretragu simptoma.
+2021-01-19 12:05:52,610 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-19 12:05:52,918 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:89] Inicijalizirana tablica za pretragu zupanija.
+2021-01-19 12:05:57,217 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu simptoma.
+2021-01-19 12:05:57,266 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:85] Inicijalizirana tablica za pretragu simptoma.
+2021-01-19 12:06:00,564 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-19 12:06:00,734 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:91] Inicijalizirana tablica za pretragu bolesti.
+2021-01-19 12:06:06,030 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-19 12:06:06,144 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:88] Inicijalizirana tablica za pretragu virusa.
+2021-01-19 12:06:08,688 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-19 12:06:09,206 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:113] Inicijalizirana tablica za pretragu osoba.
+2021-01-19 12:06:53,456 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-19 12:06:54,277 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:113] Inicijalizirana tablica za pretragu osoba.
+2021-01-19 12:07:12,855 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-19 12:07:12,900 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:89] Inicijalizirana tablica za pretragu zupanija.
+2021-01-19 12:18:25,730 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:90] Prikazan je ekran za unos nove županije.
+2021-01-19 12:24:30,807 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-19 12:24:31,106 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:89] Inicijalizirana tablica za pretragu zupanija.
+2021-01-19 12:24:39,396 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:90] Prikazan je ekran za unos nove županije.
+2021-01-19 12:26:05,103 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:90] Prikazan je ekran za unos nove županije.
+2021-01-19 14:27:41,646 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-19 14:27:42,011 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:89] Inicijalizirana tablica za pretragu zupanija.
+2021-01-19 14:31:30,959 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-19 14:31:31,274 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:89] Inicijalizirana tablica za pretragu zupanija.
+2021-01-19 14:38:27,959 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu simptoma.
+2021-01-19 14:38:28,259 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:85] Inicijalizirana tablica za pretragu simptoma.
+2021-01-19 14:38:33,522 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:99] Prikazan je ekran za unos novog simptoma.
+2021-01-19 14:53:49,468 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:108] Prikazan je ekran za unos nove bolesti.
+2021-01-19 15:00:16,116 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:108] Prikazan je ekran za unos nove bolesti.
+2021-01-19 16:18:33,540 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-19 16:18:33,957 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:91] Inicijalizirana tablica za pretragu bolesti.
+2021-01-19 16:18:49,930 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:108] Prikazan je ekran za unos nove bolesti.
+2021-01-19 16:19:01,868 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-01-19 16:19:01,968 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:91] Inicijalizirana tablica za pretragu bolesti.
+2021-01-19 16:19:04,512 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-19 16:19:04,578 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:89] Inicijalizirana tablica za pretragu zupanija.
+2021-01-19 16:19:08,797 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-19 16:19:08,910 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:88] Inicijalizirana tablica za pretragu virusa.
+2021-01-19 16:19:13,505 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu simptoma.
+2021-01-19 16:19:13,544 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:85] Inicijalizirana tablica za pretragu simptoma.
+2021-01-19 16:27:41,157 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-19 16:27:41,577 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:88] Inicijalizirana tablica za pretragu virusa.
+2021-01-19 16:27:43,578 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:117] Prikazan je ekran za unos novog virusa.
+2021-01-19 16:28:00,585 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-01-19 16:28:00,708 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:88] Inicijalizirana tablica za pretragu virusa.
+2021-01-19 16:43:04,620 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-19 16:43:05,474 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:113] Inicijalizirana tablica za pretragu osoba.
+2021-01-19 16:43:10,525 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:126] Prikazan je ekran za unos nove osobe.
+2021-01-19 16:43:50,594 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-19 16:43:51,209 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:113] Inicijalizirana tablica za pretragu osoba.
+2021-01-19 16:44:04,699 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-01-19 16:44:04,741 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:89] Inicijalizirana tablica za pretragu zupanija.
+2021-01-28 14:27:38,872 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-28 14:27:41,264 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:113] Inicijalizirana tablica za pretragu osoba.
+2021-01-28 14:27:49,444 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:126] Prikazan je ekran za unos nove osobe.
+2021-01-28 14:28:48,798 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-01-28 14:28:50,247 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:113] Inicijalizirana tablica za pretragu osoba.
+2021-01-28 14:29:04,127 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:126] Prikazan je ekran za unos nove osobe.
+2021-03-02 12:41:10,808 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-03-02 12:41:11,055 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:89] Inicijalizirana tablica za pretragu zupanija.
+2021-03-02 12:41:26,786 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu simptoma.
+2021-03-02 12:41:26,874 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:85] Inicijalizirana tablica za pretragu simptoma.
+2021-03-02 12:43:26,005 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-03-02 12:43:26,200 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:89] Inicijalizirana tablica za pretragu zupanija.
+2021-03-02 13:57:59,785 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu osoba.
+2021-03-02 13:58:00,313 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:113] Inicijalizirana tablica za pretragu osoba.
+2021-03-02 13:59:08,730 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu virusa.
+2021-03-02 13:59:10,414 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:88] Inicijalizirana tablica za pretragu virusa.
+2021-03-02 13:59:13,431 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu bolesti.
+2021-03-02 13:59:13,523 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:91] Inicijalizirana tablica za pretragu bolesti.
+2021-03-02 13:59:16,068 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu simptoma.
+2021-03-02 13:59:16,107 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:85] Inicijalizirana tablica za pretragu simptoma.
+2021-03-02 13:59:20,999 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-03-02 13:59:21,037 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:89] Inicijalizirana tablica za pretragu zupanija.
+2021-03-04 11:50:47,119 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-03-04 11:50:47,375 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:88] Inicijalizirana tablica za pretragu zupanija.
+2021-03-04 11:52:15,267 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-03-04 11:52:15,479 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:88] Inicijalizirana tablica za pretragu zupanija.
+2021-03-04 11:53:37,260 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:29] Prikazan je ekran za pretragu zupanija.
+2021-03-04 11:53:37,449 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:88] Inicijalizirana tablica za pretragu zupanija.
+2021-03-04 14:26:27,403 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu zupanija.
+2021-03-04 14:26:27,596 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:88] Inicijalizirana tablica za pretragu zupanija.
+2021-03-04 14:27:54,719 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu zupanija.
+2021-03-04 14:27:54,884 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:88] Inicijalizirana tablica za pretragu zupanija.
+2021-03-04 14:30:30,106 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu zupanija.
+2021-03-04 14:30:30,273 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:88] Inicijalizirana tablica za pretragu zupanija.
+2021-03-04 14:30:36,211 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:107] Prikazan je ekran za unos nove županije.
+2021-03-04 14:30:37,914 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu simptoma.
+2021-03-04 14:30:38,004 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:79] Inicijalizirana tablica za pretragu simptoma.
+2021-03-04 14:30:40,236 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:120] Prikazan je ekran za unos novog simptoma.
+2021-03-04 14:30:42,177 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu bolesti.
+2021-03-04 14:30:42,271 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:86] Inicijalizirana tablica za pretragu bolesti.
+2021-03-04 14:30:44,406 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:133] Prikazan je ekran za unos nove bolesti.
+2021-03-04 14:30:47,458 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:94] Prikazan je ekran za pretragu osoba.
+2021-03-04 14:30:47,656 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:108] Inicijalizirana tablica za pretragu osoba.
+2021-03-04 14:30:55,385 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:159] Prikazan je ekran za unos nove osobe.
+2021-03-04 14:38:26,718 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu simptoma.
+2021-03-04 14:38:26,884 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:79] Inicijalizirana tablica za pretragu simptoma.
+2021-03-04 14:38:33,444 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu bolesti.
+2021-03-04 14:38:33,502 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:86] Inicijalizirana tablica za pretragu bolesti.
+2021-03-04 14:38:35,302 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:133] Prikazan je ekran za unos nove bolesti.
+2021-03-04 14:38:40,190 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu bolesti.
+2021-03-04 14:38:40,232 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:86] Inicijalizirana tablica za pretragu bolesti.
+2021-03-04 14:38:42,618 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu simptoma.
+2021-03-04 14:38:42,654 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:79] Inicijalizirana tablica za pretragu simptoma.
+2021-03-04 14:38:48,636 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu virusa.
+2021-03-04 14:38:48,680 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:86] Inicijalizirana tablica za pretragu virusa.
+2021-03-04 14:39:18,063 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu simptoma.
+2021-03-04 14:39:18,212 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:79] Inicijalizirana tablica za pretragu simptoma.
+2021-03-04 14:39:20,978 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu bolesti.
+2021-03-04 14:39:21,039 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:86] Inicijalizirana tablica za pretragu bolesti.
+2021-03-04 14:39:22,670 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:133] Prikazan je ekran za unos nove bolesti.
+2021-03-04 14:39:47,682 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu bolesti.
+2021-03-04 14:39:47,743 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:86] Inicijalizirana tablica za pretragu bolesti.
+2021-03-04 14:40:37,800 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:68] Prikazan je ekran za pretragu bolesti.
+2021-03-04 14:40:37,996 INFO [JavaFX Application Thread] m.j.s.PretragaBolestiController [PretragaBolestiController.java:86] Inicijalizirana tablica za pretragu bolesti.
+2021-03-04 14:42:06,786 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:42] Prikazan je ekran za pretragu zupanija.
+2021-03-04 14:42:06,931 INFO [JavaFX Application Thread] m.j.s.PretragaZupanijaController [PretragaZupanijaController.java:88] Inicijalizirana tablica za pretragu zupanija.
+2021-03-04 14:42:16,055 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:107] Prikazan je ekran za unos nove županije.
+2021-03-04 14:42:19,319 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:55] Prikazan je ekran za pretragu simptoma.
+2021-03-04 14:42:19,365 INFO [JavaFX Application Thread] m.j.s.PretragaSimptomaController [PretragaSimptomaController.java:79] Inicijalizirana tablica za pretragu simptoma.
+2021-03-04 14:42:24,651 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:81] Prikazan je ekran za pretragu virusa.
+2021-03-04 14:42:24,704 INFO [JavaFX Application Thread] m.j.s.PretragaVirusaController [PretragaVirusaController.java:86] Inicijalizirana tablica za pretragu virusa.
+2021-03-04 14:42:26,299 INFO [JavaFX Application Thread] m.j.s.PocetniEkranController [PocetniEkranController.java:94] Prikazan je ekran za pretragu osoba.
+2021-03-04 14:42:26,452 INFO [JavaFX Application Thread] m.j.s.PretragaOsobaController [PretragaOsobaController.java:108] Inicijalizirana tablica za pretragu osoba.
