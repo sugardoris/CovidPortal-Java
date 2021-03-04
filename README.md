@@ -11,5 +11,6 @@ It also covers some intermediate and more advanced topics:
 - generic programming
 - functional programming and lambdas
 - JavaFX and SceneBuilder
-- JDBC and working with databases
+- JDBC and working with databases (this app uses the H2 database)
 - concurrency and threads
+
